@@ -107,38 +107,39 @@ print("\nTop 5 Genres:\n", top_genres, "\n")
 
 ### Load dataset directly from GitHub
 
-<img width="701" height="37" alt="image" src="https://github.com/user-attachments/assets/09670272-2f3b-4309-ad9e-8ec1c4985038" />
-
-<img width="1701" height="365" alt="image" src="https://github.com/user-attachments/assets/f508ab74-8b5f-43b9-a4a3-e7845ec8c548" />
-
-<img width="829" height="163" alt="image" src="https://github.com/user-attachments/assets/d6b31853-9d8b-451d-b338-eb4e233bf75e" />
+<img width="872" height="215" alt="image" src="https://github.com/user-attachments/assets/b5df37fb-0fbf-4586-8db1-574c53cdd66a" />
 
 
 ### Clean 'date_added' and extract year/month
 
-<img width="1715" height="426" alt="image" src="https://github.com/user-attachments/assets/19c9abb3-31c2-4cd5-9544-a606490d7c99" />
+<img width="1670" height="596" alt="image" src="https://github.com/user-attachments/assets/b92057a9-35f7-4b3d-a9d0-1613467fff8f" />
+
 
 ###  Movies vs TV Shows
 
-<img width="524" height="110" alt="image" src="https://github.com/user-attachments/assets/e40a2e52-9537-48f3-a228-e531e426398c" />
+<img width="403" height="138" alt="image" src="https://github.com/user-attachments/assets/cd7d3f6f-8b12-41c5-8b9c-b5bfeae7c5b9" />
+
 
 ###  Country vs Type Pivot Table
 
-<img width="600" height="158" alt="image" src="https://github.com/user-attachments/assets/d878fe31-13da-4928-bb7e-b537d3ca9248" />
+<img width="1030" height="242" alt="image" src="https://github.com/user-attachments/assets/3db75ba8-e973-476d-8f89-e7223a28eddb" />
+
 
 ### Top 5 Directors
 
-<img width="600" height="158" alt="image" src="https://github.com/user-attachments/assets/a11cbf37-c389-4fd1-aa9a-1e2dae9494e3" />
+<img width="432" height="220" alt="image" src="https://github.com/user-attachments/assets/65728000-847e-4f97-bf91-52921b753e1f" />
+
 
 ### Yearly Trend of Additions (Movies vs TV Shows)
 
-<img width="550" height="186" alt="image" src="https://github.com/user-attachments/assets/11697080-3125-42bb-aa1b-ca6e0e374962" />
+<img width="355" height="206" alt="image" src="https://github.com/user-attachments/assets/d9f9b800-5edc-4b3e-8b94-fadc0aa8a2cb" />
+
 
 ### Expand Genres
 
-<img width="710" height="154" alt="image" src="https://github.com/user-attachments/assets/7dd8e9d4-4078-4b43-8c2c-3f57018ee759" />
 
-<img width="596" height="167" alt="image" src="https://github.com/user-attachments/assets/c82d6c51-0c58-44d9-a40b-16c09ee511d4" />
+<img width="917" height="508" alt="image" src="https://github.com/user-attachments/assets/2561d1cb-f2ee-4eb2-8bdb-4b9b7151ae33" />
+
 
 
 ## Result 
